@@ -3,4 +3,4 @@ The aim of this project is to get a systems level understanding of how wireless 
 
 
  ## Wireless Communication and Networks (CS6120)
-This repository contains project done as a part of course CS6120
+This repository contains project done as a part of course CS6120 at IITM
